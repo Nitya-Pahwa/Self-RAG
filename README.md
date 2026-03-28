@@ -38,8 +38,8 @@ This project uses LangChain, LangGraph, FAISS, and Groq LLM API to build an inte
 ### 1. Clone the repository
 
 ```bash
-[git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name](https://github.com/Nitya-Pahwa/Corrective-RAG-Based-ML-Tutor.git)
+[[git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name](https://github.com/Nitya-Pahwa/Corrective-RAG-Based-ML-Tutor.git)](https://github.com/Nitya-Pahwa/Self-RAG.git)
 ```
 ### 2. Install dependencies
 
